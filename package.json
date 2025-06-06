@@ -1,0 +1,39 @@
+{
+  "name": "eslint-plugin-tailwind-enforcer",
+  "version": "1.0.0",
+  "description": "ESLint rules to enforce TailWind's className usage over traditional styling methods.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "rules/",
+    "configs/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "nativewind",
+    "tailwind",
+    "react-native",
+    "react",
+    "enforcer",
+    "styles",
+    "lint"
+  ],
+  "author": "Volodymyr https://github.com/1h8sn0w",
+  "license": "MIT",
+  "homepage": "https://github.com/1h8sn0w/eslint-plugin-nativewind-enforcer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1h8sn0w/eslint-plugin-nativewind-enforcer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1h8sn0w/eslint-plugin-nativewind-enforcer/issues"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.0.0"
+  }
+}
