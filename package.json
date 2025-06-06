@@ -25,13 +25,13 @@
   ],
   "author": "Volodymyr https://github.com/1h8sn0w",
   "license": "MIT",
-  "homepage": "https://github.com/1h8sn0w/eslint-plugin-nativewind-enforcer#readme",
+  "homepage": "https://github.com/1h8sn0w/eslint-plugin-tailwind-enforcer#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1h8sn0w/eslint-plugin-nativewind-enforcer.git"
+    "url": "git+https://github.com/1h8sn0w/eslint-plugin-tailwind-enforcer.git"
   },
   "bugs": {
-    "url": "https://github.com/1h8sn0w/eslint-plugin-nativewind-enforcer/issues"
+    "url": "https://github.com/1h8sn0w/eslint-plugin-tailwind-enforcer/issues"
   },
   "peerDependencies": {
     "eslint": ">=7.0.0"
